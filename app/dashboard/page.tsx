@@ -95,7 +95,7 @@ export default function DashboardPage() {
             </CardHeader>
             <CardContent>
               <div className="text-3xl font-bold mb-2">7 Days</div>
-              <p className="text-sm text-muted-foreground">Keep it up! You're building great habits.</p>
+              <p className="text-sm text-muted-foreground">Keep it up! You\'re building great habits.</p>
             </CardContent>
           </Card>
           <Card>
